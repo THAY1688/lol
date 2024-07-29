@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+}
+h1 {
+    color: teal;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.container {
+    box-shadow: none;
+}
